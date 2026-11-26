@@ -3,7 +3,7 @@
     "name": "Sequence 9 Ritual",
     "cost": 50,
     "columnNumber": 2,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Philosophy"
     ],
@@ -38,7 +38,7 @@
     "name": "Sequence 8 Ritual",
     "cost": 120,
     "columnNumber": 3,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 9 Ritual",
       "Theology"
@@ -52,7 +52,7 @@
     "name": "Sequence 7 Ritual",
     "cost": 250,
     "columnNumber": 4,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 8 Ritual",
       "Education"
@@ -63,7 +63,7 @@
     "name": "Sequence 6 Ritual",
     "cost": 400,
     "columnNumber": 5,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 7 Ritual",
       "Astronomy"
@@ -74,7 +74,7 @@
     "name": "Sequence 5 Ritual",
     "cost": 600,
     "columnNumber": 6,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 6 Ritual",
       "Archaeology"
@@ -85,7 +85,7 @@
     "name": "Sequence 4 Ritual",
     "cost": 850,
     "columnNumber": 7,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 5 Ritual",
       "Scientific Theory"
@@ -96,7 +96,7 @@
     "name": "Sequence 3 Ritual",
     "cost": 1100,
     "columnNumber": 8,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 4 Ritual",
       "Radio"
@@ -107,7 +107,7 @@
     "name": "Sequence 2 Ritual",
     "cost": 1500,
     "columnNumber": 9,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 3 Ritual",
       "Atomic Theory"
@@ -118,7 +118,7 @@
     "name": "Sequence 1 Ritual",
     "cost": 2200,
     "columnNumber": 10,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 2 Ritual",
       "Particle Physics"
@@ -129,7 +129,7 @@
     "name": "Sequence 0 Ritual",
     "cost": 3500,
     "columnNumber": 11,
-    "row": 5,
+    "row": 8,
     "prerequisites": [
       "Sequence 1 Ritual",
       "Future Tech"
