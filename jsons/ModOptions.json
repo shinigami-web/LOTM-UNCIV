@@ -1,0 +1,12 @@
+{
+  "isBaseRuleset": false,
+  "modOptions": {
+    "uniqueName": "LOTM - 22 Pathways",
+    "uniques": [],
+    "constants": {}
+  },
+  "uniques": [],
+  "techsToRemove": [],
+  "unitsToRemove": [],
+  "nationsToRemove": []
+}
