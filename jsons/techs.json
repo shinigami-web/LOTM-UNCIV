@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Sequence 9 Ritual",
+    "cost": 50,
+    "columnNumber": 2,
+    "row": 8,
+    "prerequisites": [
+      "Philosophy"
+    ],
+    "quote": "'We are all mortals, but some seek beyond.' - Antigonus",
+    "uniques": [
+      "Enables building of [Seer Beyonder] units",
+      "Enables building of [Marauder Beyonder] units",
+      "Enables building of [Apprentice Beyonder] units",
+      "Enables building of [Spectator Beyonder] units",
+      "Enables building of [Bard Beyonder] units",
+      "Enables building of [Sailor Byeonder] units",
+      "Enables building of [Reader Beyonder] units",
+      "Enables building of [Secrets Supplicant Beyonder] units",
+      "Enables building of [Sleepless Beyonder] units",
+      "Enables building of [Mystery Pryer Beyonder] units",
+      "Enables building of [Savant Beyonder] units",
+      "Enables building of [Corpse Collector Beyonder] units",
+      "Enables building of [Planter Beyonder] units",
+      "Enables building of [Apothecary Beyonder] units",
+      "Enables building of [Warrior Beyonder] units",
+      "Enables building of [Prisoner Beyonder] units",
+      "Enables building of [Arbiter Beyonder] units",
+      "Enables building of [Lawyer Beyonder] units",
+       "Enables building of [Assassin Beyonder] units",
+      "Enables building of [Polymath Beyonder] units",
+      "Enables building of [Hunter Beyonder] units",
+       "Enables building of [Criminal Beyonder] units",
+      
+    ]
+  },
+  {
+    "name": "Sequence 8 Ritual",
+    "cost": 120,
+    "columnNumber": 3,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 9 Ritual",
+      "Theology"
+    ],
+    "quote": "Acting is not pretending, it is becoming.",
+    "uniques": [
+      "[Beyonder Characteristic] revealed on map"
+    ]
+  },
+  {
+    "name": "Sequence 7 Ritual",
+    "cost": 250,
+    "columnNumber": 4,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 8 Ritual",
+      "Education"
+    ],
+    "quote": "Digest, don't just consume."
+  },
+  {
+    "name": "Sequence 6 Ritual",
+    "cost": 400,
+    "columnNumber": 5,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 7 Ritual",
+      "Astronomy"
+    ],
+    "quote": "The spirit world overlaps our own."
+  },
+  {
+    "name": "Sequence 5 Ritual",
+    "cost": 600,
+    "columnNumber": 6,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 6 Ritual",
+      "Archaeology"
+    ],
+    "quote": "Faceless, Marionettist - humanity fades."
+  },
+  {
+    "name": "Sequence 4 Ritual",
+    "cost": 850,
+    "columnNumber": 7,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 5 Ritual",
+      "Scientific Theory"
+    ],
+    "quote": "Demigod - the threshold of true myth."
+  },
+  {
+    "name": "Sequence 3 Ritual",
+    "cost": 1100,
+    "columnNumber": 8,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 4 Ritual",
+      "Radio"
+    ],
+    "quote": "Saint. Your whispers can be heard by all."
+  },
+  {
+    "name": "Sequence 2 Ritual",
+    "cost": 1500,
+    "columnNumber": 9,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 3 Ritual",
+      "Atomic Theory"
+    ],
+    "quote": "Angel. You are closer to divinity than humanity."
+  },
+  {
+    "name": "Sequence 1 Ritual",
+    "cost": 2200,
+    "columnNumber": 10,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 2 Ritual",
+      "Particle Physics"
+    ],
+    "quote": "King of Angels - prepare your Sefirah."
+  },
+  {
+    "name": "Sequence 0 Ritual",
+    "cost": 3500,
+    "columnNumber": 11,
+    "row": 8,
+    "prerequisites": [
+      "Sequence 1 Ritual",
+      "Future Tech"
+    ],
+    "quote": "Godhood. Accommodate the Uniqueness and Sefirot.",
+    "uniques": [
+      "[Sealed Artifact] revealed on map"
+    ]
+  }
+]
